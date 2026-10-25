@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "공학관": {
+      "style": "tan",
+      "wall": "#d6cfbf",
+      "glass": "#4a5654",
+      "frame": "#8f8c82"
+    },
+    "상허기념도서관": {
+      "style": "concrete",
+      "wall": "#a3a7a3",
+      "glass": "#2a2c2a",
+      "frame": "#7e827f"
+    },
+    "산학협동관": {
+      "style": "tan",
+      "wall": "#e6d5c8",
+      "glass": "#5f8682",
+      "frame": "#a09b97"
+    },
+    "법학관": {
+      "style": "brick",
+      "wall": "#6f4a45",
+      "glass": "#3d373c",
+      "frame": "#8a8d90"
+    },
+    "생명과학관": {
+      "style": "glass",
+      "wall": "#b8bfc4",
+      "glass": "#6a7d84",
+      "frame": "#9aa3aa"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#e4e1ce",
+      "glass": "#4a5a62",
+      "frame": "#b5b3a5"
+    },
+    "과학관": {
+      "style": "tan",
+      "wall": "#cdb896",
+      "glass": "#5f8f84",
+      "frame": "#98866b"
+    },
+    "수의학관": {
+      "style": "stone",
+      "wall": "#b8b4ae",
+      "glass": "#3e666e",
+      "frame": "#2f6b4a"
+    },
+    "예술문화관": {
+      "style": "glass",
+      "wall": "#8a7f62",
+      "glass": "#3a4a3e",
+      "frame": "#4c8a3c"
+    },
+    "상허연구관": {
+      "style": "ribbon",
+      "wall": "#e1e1e3",
+      "glass": "#5b8fb5",
+      "frame": "#9aa3ab"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
